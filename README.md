@@ -1,0 +1,7 @@
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@217.216.82.85:1001?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=us.samanehha.io&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@217.216.82.85:1002?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=us.samanehha.io&type=xhttp#%F0%9F%87%AF%F0%9F%87%B5%20Japan
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@170.39.216.98:1005?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=www.samanehha.io&type=xhttp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@fs.koomeh.net:443?mode=auto&path=%2Frmnwv&security=tls&encryption=none&host=Amiiiiiiir00jgv897.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%20%E2%AD%90%20Germany
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@170.39.216.98:1102?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=www.samanehha.io&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@217.216.82.85:800?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=us.samanehha.io&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://d22869f6-287d-4682-b4a0-04cee159cb47@217.216.82.85:800?mode=stream-one&path=%2F%3Fed%3D2048&security=&encryption=none&host=us.samanehha.io&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20USA
